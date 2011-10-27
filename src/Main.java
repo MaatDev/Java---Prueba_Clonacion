@@ -1,4 +1,3 @@
-
 public class Main {
 
 	/**
@@ -18,10 +17,13 @@ public class Main {
 		
 		string3 = string1.clone();
 		
-		string1.text = "chau";
+		string1.text = "chao";
 		
+		//Sale chao		
 		System.out.println(string1.text);
+		//Sale chao
 		System.out.println(string2.text);
+		//Sale hola
 		System.out.println(string3.text);
 		
 	}
