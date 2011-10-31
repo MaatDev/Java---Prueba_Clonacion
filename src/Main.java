@@ -4,7 +4,7 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+		//hola
 		CustomString string1 = new CustomString();
 		
 		CustomString string2 = new CustomString();
